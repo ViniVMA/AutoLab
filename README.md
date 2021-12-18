@@ -8,3 +8,10 @@ Desafio técnico feito para o programa da Luby software LabLuby luby.com.br/labl
 - A versão mobile ainda não está completa, pretendo terminar quando estiver com a versão WEB 100% funcional com a API
 - ✨Magic ✨
 
+Foram utilizados como dependencias:
+-Typescript
+-Axios
+-Zustand
+-Styled-Componenets
+
+
