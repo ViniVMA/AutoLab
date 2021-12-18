@@ -1,5 +1,5 @@
 import react,{useEffect, useState} from 'react';
-import * as S from './allvehicles.style';
+
 import { Header } from '../../components/Header'
 import { Table } from '../../components/Table'
 
