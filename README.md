@@ -9,9 +9,7 @@ Desafio técnico feito para o programa da Luby software LabLuby luby.com.br/labl
 - ✨Magic ✨
 
 Foram utilizados como dependencias:
--Typescript
--Axios
--Zustand
--Styled-Componenets
-
-
+- Typescript
+- Axios
+- Zustand
+- Styled-Componenets
