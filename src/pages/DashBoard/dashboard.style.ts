@@ -1,10 +1,15 @@
 import styled from 'styled-components';
 
-export const CardsWrapper = styled.div`
-
+export const PageWrapper = styled.div`
     display: flex;
+    justify-content: center;
     
+`
+
+export const CardsWrapper = styled.div`
+    display: flex;    
     flex-direction: column;
+    
   section {
     margin-bottom: 20px;
   }
@@ -30,9 +35,5 @@ export const Main = styled.div`
 `
 
 
-export const PageWrapper = styled.div`
-    display: flex;
-    justify-content: center;
-`
 
   

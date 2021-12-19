@@ -12,7 +12,7 @@ export const Logo = () => {
 
   const history = useHistory();
   return(
-  <S.LogoWrapper  onClick={()=> history.push('/')}>
+  <S.LogoWrapper  onClick={()=> history.push('/admin/dashboard')}>
     <img src={LogoImg} alt="AutoLuby Logo" />
     <span>AutoLuby</span>
   </S.LogoWrapper>
