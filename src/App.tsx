@@ -5,11 +5,13 @@ import { DashBoard } from './pages/DashBoard';
 import { AllVehicles } from './pages/AllVehicles';
 import { MyVehicles } from './pages/MyVehicles'
 import { Employees } from './pages/Employees'
+import { GlobalStyle } from './styles/global.style';
 
 
 function App() {
   return (
     <BrowserRouter>
+    <GlobalStyle />
         <Switch>
           <Route path="/" exact component={LoginPage} />
           <Route path="/admin/dashboard" component={DashBoard} />
