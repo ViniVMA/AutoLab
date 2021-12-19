@@ -1,7 +1,6 @@
 # AutoLuby
 ## 
 
-
 Desafio técnico feito para o programa da Luby software LabLuby luby.com.br/labluby/
 
 - Não me foi disponibilizado o toekn da API então tive que fazer uma mock API proxima para alimentar o aplicativo
@@ -13,3 +12,4 @@ Foram utilizados como dependencias:
 - Axios
 - Zustand
 - Styled-Componenets
+
